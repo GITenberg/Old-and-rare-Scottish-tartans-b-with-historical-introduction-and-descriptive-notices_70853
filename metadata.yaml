@@ -1,0 +1,32 @@
+_repo: Old-and-rare-Scottish-tartans-b-with-historical-introduction-and-descriptive-notices_70853
+_version: 0.0.1
+alternative_title: Old & rare Scottish tartans
+creator:
+  author:
+    agent_name: Stewart, Donald William
+    gutenberg_agent_id: '55957'
+    url: http://www.gutenberg.org/2009/agents/55957
+description: ''
+gutenberg_issued: '2023-05-24'
+identifiers:
+  gutenberg: '70853'
+  lccn: '12029772'
+language: en
+pgterms:marc904: https://archive.org/details/oldrarescottisht00stew/page/n90/mode/2up?q=scottish+tartans
+pgterms:marc905: 20230114191051stewart
+pgterms:marc906: '1893'
+pgterms:marc907: gb
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bGeorge P Johnston, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tartans -- Scotland'
+- !lcc 'DA'
+- GITenberg
+title: 'Old and rare Scottish tartans : $b with historical introduction and descriptive
+  notices'
+url: http://www.gutenberg.org/ebooks/70853
