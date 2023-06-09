@@ -1,12 +1,17 @@
 _repo: Old-and-rare-Scottish-tartans-b-with-historical-introduction-and-descriptive-notices_70853
 _version: 0.1.0
 alternative_title: Old & rare Scottish tartans
+covers:
+- cover_type: archival
+  image_path: 70853-h/images/cover.jpg
 creator:
   author:
     agent_name: Stewart, Donald William
     gutenberg_agent_id: '55957'
     url: http://www.gutenberg.org/2009/agents/55957
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70853#Old-and-rare-Scottish-tartans-b-with-historical-introduction-and-descriptive-notices
 gutenberg_issued: '2023-05-24'
 identifiers:
   gutenberg: '70853'
